@@ -1,6 +1,6 @@
 {
-    "name": "weprovide/module-disablevisitorlog",
-    "description": "Disable visitorlog",
+    "name": "weprovide/magento2-module-disablevisitorlog",
+    "description": "Disable visitor log in Magento 2",
     "license": "MIT",
     "autoload": {
         "psr-4": {
