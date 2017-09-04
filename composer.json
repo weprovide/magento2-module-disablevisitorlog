@@ -1,0 +1,13 @@
+{
+    "name": "weprovide/module-disablevisitorlog",
+    "description": "Disable visitorlog",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "WeProvide\\DisableVisitorLog\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
